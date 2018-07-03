@@ -1,9 +1,12 @@
 # vuefoodweb
+> A Vue.js project of selling food
 
-> A Vue.js project
+
+# 访问地址
+hengpei.top
+
 
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
