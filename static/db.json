@@ -1,0 +1,65 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "新闻条目1新闻条目1新闻条目1新闻条目1",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "新闻条目2新闻条目2新闻条目2新闻条目2",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "新闻条3新闻条3新闻条3",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "新闻条4广告发布",
+      "url": "http://hearstone.com"
+    }
+  ],
+  "login": {
+    "username": "yudongdong",
+    "userId": 123123
+  },
+  "getPrice": {
+    "amount": 678
+  },
+  "createOrder": {
+    "orderId": "6djk979"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "goodsName": "法式马卡龙全可可脂巧克力礼盒装",
+        "buyType": "饼干",
+        "goodsPrice": "4.90元",
+        "buyNum": "10",
+        "totalPrice": "49.00元",
+        "bankName": "招商银行" 
+      },
+      {
+        "orderId": "yuj583",
+        "goodsName": "友臣 肉松饼 经典原味",
+        "buyType": "肉松饼",
+        "goodsPrice": "8.80元",
+        "buyNum": "5",
+        "totalPrice": "44.00元",
+        "bankName": "浦发银行" 
+      },
+      {
+        "orderId": "pmd201",
+        "goodsName": "丹夫 华夫饼（提拉米苏味)",
+        "buyType": "华夫饼",
+        "goodsPrice": "8.90元",
+        "buyNum": "6",
+        "totalPrice": "53.40元",
+        "bankName": "交通银行" 
+      }
+    ]
+  }
+}
